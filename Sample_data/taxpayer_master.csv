@@ -1,0 +1,501 @@
+taxpayer_id,nama_wajib_pajak,sektor_usaha,tahun_registrasi,omzet_tahunan_juta,jumlah_karyawan,alamat_kelurahan,status_pkp
+WP-0001,CV Napitupulu,Transportasi,2017,3497,170,Kuningan,YA
+WP-0002,PD Narpati Uyainah,Manufaktur,2001,13793,158,Cempaka Putih,YA
+WP-0003,PT Zulaika Maryati,Kesehatan,2005,5804,135,Cempaka Putih,YA
+WP-0004,PT Hasanah Suartini,Perdagangan,2001,369,197,Rawamangun,TIDAK
+WP-0005,UD Pratiwi,Kesehatan,2019,13435,142,Pulogadung,TIDAK
+WP-0006,UD Maryati Maryadi,Keuangan,2021,14211,113,Tambora,YA
+WP-0007,Perum Tamba Suartini,Restoran,2000,7143,57,Pulogadung,TIDAK
+WP-0008,PT Safitri Halimah,Restoran,2009,7709,27,Kalideres,YA
+WP-0009,PT Aryani Wibowo (Persero) Tbk,Manufaktur,2014,2441,107,Cempaka Putih,YA
+WP-0010,Perum Mustofa Najmudin Tbk,Properti,2016,14194,39,Gambir,TIDAK
+WP-0011,UD Rahayu,Properti,2001,8381,93,Cikini,TIDAK
+WP-0012,CV Kuswandari,Jasa,2009,7118,189,Cilandak,TIDAK
+WP-0013,PT Simanjuntak Aryani Tbk,Perdagangan,2000,10260,113,Cengkareng,TIDAK
+WP-0014,PT Prabowo Tbk,Kesehatan,2010,10828,49,Tambora,YA
+WP-0015,PT Kurniawan,Kesehatan,2001,6880,171,Kemayoran,TIDAK
+WP-0016,UD Prasetyo Nuraini Tbk,Properti,2001,9416,52,Kuningan,YA
+WP-0017,PT Siregar Saragih,Transportasi,2017,14429,130,Kuningan,YA
+WP-0018,PT Mardhiyah Prasasta (Persero) Tbk,Keuangan,2017,3227,115,Cempaka Putih,TIDAK
+WP-0019,PD Saptono Permadi,Kesehatan,2021,983,152,Kalideres,TIDAK
+WP-0020,CV Nugroho Uyainah,Transportasi,2003,6619,68,Jatinegara,YA
+WP-0021,Perum Prasasta Situmorang,Kesehatan,2010,531,149,Setiabudi,TIDAK
+WP-0022,Perum Gunawan Tbk,Transportasi,2002,13266,145,Rawamangun,TIDAK
+WP-0023,CV Budiyanto,Properti,2005,10938,58,Kemayoran,YA
+WP-0024,PD Widodo Sihombing,Jasa,2014,6202,164,Cakung,YA
+WP-0025,CV Pratiwi Sihotang (Persero) Tbk,Restoran,2006,1297,46,Cakung,YA
+WP-0026,CV Rajasa (Persero) Tbk,Properti,2008,3124,107,Menteng,TIDAK
+WP-0027,PT Rahayu,Restoran,2018,11462,176,Jatinegara,YA
+WP-0028,Perum Agustina Sihotang,Teknologi,2022,14746,92,Setiabudi,TIDAK
+WP-0029,Perum Rahayu Wacana Tbk,Restoran,2023,5929,118,Senayan,TIDAK
+WP-0030,UD Hardiansyah,Transportasi,2002,4517,37,Cikini,TIDAK
+WP-0031,UD Suwarno (Persero) Tbk,Manufaktur,2009,12880,105,Cengkareng,YA
+WP-0032,UD Prayoga,Properti,2021,5532,40,Johar Baru,TIDAK
+WP-0033,Perum Purwanti Usamah (Persero) Tbk,Pendidikan,2003,11655,180,Mampang,YA
+WP-0034,Perum Namaga (Persero) Tbk,Manufaktur,2013,7921,53,Johar Baru,YA
+WP-0035,Perum Namaga,Manufaktur,2010,405,28,Cilandak,YA
+WP-0036,UD Siregar Nuraini (Persero) Tbk,Jasa,2015,9786,24,Menteng,TIDAK
+WP-0037,Perum Sihombing Anggriawan,Teknologi,2024,7467,120,Mampang,YA
+WP-0038,CV Mandala Prabowo,Kesehatan,2020,13583,85,Setiabudi,TIDAK
+WP-0039,PT Kuswoyo Narpati (Persero) Tbk,Keuangan,2005,12468,182,Pulogadung,TIDAK
+WP-0040,Perum Sinaga Tbk,Properti,2012,3791,195,Matraman,TIDAK
+WP-0041,PT Salahudin Adriansyah,Properti,2023,6591,191,Rawamangun,YA
+WP-0042,CV Mandala,Teknologi,2022,770,117,Jatinegara,TIDAK
+WP-0043,Perum Lestari Tbk,Restoran,2008,2855,156,Pulogadung,TIDAK
+WP-0044,CV Handayani Tbk,Pendidikan,2008,14959,39,Johar Baru,TIDAK
+WP-0045,PD Sitorus Tbk,Kesehatan,2008,2472,181,Gambir,TIDAK
+WP-0046,UD Hariyah Waluyo,Kesehatan,2019,9800,18,Setiabudi,TIDAK
+WP-0047,CV Rahmawati,Manufaktur,2013,9332,51,Gambir,YA
+WP-0048,CV Iswahyudi,Properti,2017,2602,163,Tambora,TIDAK
+WP-0049,Perum Prasasta,Properti,2002,13017,16,Setiabudi,YA
+WP-0050,PT Usada,Perdagangan,2024,14774,34,Senayan,TIDAK
+WP-0051,PD Prayoga,Perdagangan,2005,9014,132,Cilandak,YA
+WP-0052,PD Pudjiastuti Tbk,Keuangan,2000,5530,169,Kalideres,TIDAK
+WP-0053,Perum Laksita Mangunsong (Persero) Tbk,Properti,2002,1819,32,Matraman,YA
+WP-0054,PD Wijayanti Hasanah (Persero) Tbk,Kesehatan,2005,7059,71,Kuningan,TIDAK
+WP-0055,PT Suryono Pangestu Tbk,Teknologi,2021,738,115,Kalideres,TIDAK
+WP-0056,Perum Suartini Hartati,Transportasi,2006,6817,130,Rawamangun,TIDAK
+WP-0057,PD Winarno Winarsih (Persero) Tbk,Properti,2000,14127,131,Jatinegara,YA
+WP-0058,UD Wacana Nasyidah,Restoran,2008,7869,155,Johar Baru,TIDAK
+WP-0059,UD Tamba,Manufaktur,2018,4140,115,Kalideres,TIDAK
+WP-0060,PT Wahyuni (Persero) Tbk,Jasa,2013,12434,60,Tebet,TIDAK
+WP-0061,UD Prasetya Aryani,Keuangan,2005,4692,176,Pulogadung,TIDAK
+WP-0062,UD Budiyanto Tamba,Transportasi,2018,7996,41,Gambir,TIDAK
+WP-0063,PT Melani Dongoran (Persero) Tbk,Transportasi,2000,12868,46,Senayan,TIDAK
+WP-0064,Perum Wahyudin Uwais,Manufaktur,2008,5752,188,Kalideres,YA
+WP-0065,CV Manullang Puspita,Restoran,2007,12417,146,Tebet,YA
+WP-0066,PD Budiman Sirait Tbk,Perdagangan,2009,1151,161,Menteng,TIDAK
+WP-0067,CV Waskita Purnawati Tbk,Transportasi,2021,1173,71,Matraman,TIDAK
+WP-0068,Perum Yuniar Halim (Persero) Tbk,Keuangan,2004,1854,139,Setiabudi,TIDAK
+WP-0069,Perum Hidayanto Aryani,Teknologi,2014,4650,22,Pulogadung,TIDAK
+WP-0070,Perum Suryatmi Aryani (Persero) Tbk,Pendidikan,2017,9901,12,Kuningan,YA
+WP-0071,PT Simbolon Maryati (Persero) Tbk,Properti,2017,6048,39,Kemayoran,TIDAK
+WP-0072,Perum Kusumo,Pendidikan,2019,12442,77,Jatinegara,TIDAK
+WP-0073,Perum Gunawan,Teknologi,2024,12553,107,Johar Baru,TIDAK
+WP-0074,PT Adriansyah Mandasari Tbk,Manufaktur,2023,9209,116,Senayan,TIDAK
+WP-0075,PT Wijaya Novitasari,Manufaktur,2020,13740,67,Senayan,YA
+WP-0076,PT Suryono (Persero) Tbk,Keuangan,2024,10493,38,Tebet,TIDAK
+WP-0077,PT Permadi Kurniawan Tbk,Transportasi,2020,7580,153,Gambir,YA
+WP-0078,Perum Rajasa Sudiati,Restoran,2005,12622,25,Cilandak,TIDAK
+WP-0079,Perum Permata Tbk,Perdagangan,2015,1271,93,Jatinegara,TIDAK
+WP-0080,CV Gunawan Permata (Persero) Tbk,Transportasi,2022,5507,140,Matraman,TIDAK
+WP-0081,PT Adriansyah (Persero) Tbk,Keuangan,2008,9343,27,Cempaka Putih,YA
+WP-0082,CV Usada,Pendidikan,2015,3217,139,Rawamangun,YA
+WP-0083,PT Hastuti (Persero) Tbk,Keuangan,2017,13040,81,Cengkareng,TIDAK
+WP-0084,PT Farida Farida,Transportasi,2009,257,36,Mampang,YA
+WP-0085,PT Hidayanto Najmudin,Transportasi,2024,14234,23,Johar Baru,YA
+WP-0086,CV Hastuti Lazuardi Tbk,Keuangan,2016,7910,186,Mampang,YA
+WP-0087,CV Santoso Kusumo,Pendidikan,2016,10420,179,Pulogadung,YA
+WP-0088,Perum Tarihoran Thamrin,Transportasi,2017,5314,16,Cengkareng,YA
+WP-0089,CV Simanjuntak Tbk,Keuangan,2012,13597,50,Gambir,YA
+WP-0090,Perum Dongoran Sitompul,Transportasi,2000,12416,71,Kemayoran,YA
+WP-0091,PT Mandasari,Manufaktur,2003,6755,144,Johar Baru,TIDAK
+WP-0092,PD Hutapea Nababan,Restoran,2024,12577,58,Mampang,YA
+WP-0093,UD Dabukke Tbk,Properti,2019,4677,185,Gambir,YA
+WP-0094,PD Riyanti Napitupulu Tbk,Properti,2003,5433,190,Kemayoran,YA
+WP-0095,PD Maheswara Widodo Tbk,Pendidikan,2016,12456,134,Pulogadung,YA
+WP-0096,Perum Yulianti Usada,Transportasi,2023,10017,138,Menteng,TIDAK
+WP-0097,PD Wijaya (Persero) Tbk,Perdagangan,2012,8876,163,Matraman,TIDAK
+WP-0098,UD Rahimah (Persero) Tbk,Keuangan,2024,615,170,Tambora,YA
+WP-0099,CV Lazuardi Tbk,Teknologi,2009,2100,95,Pulogadung,TIDAK
+WP-0100,UD Nurdiyanti,Pendidikan,2024,13120,111,Johar Baru,YA
+WP-0101,CV Safitri,Kesehatan,2020,9565,180,Rawamangun,TIDAK
+WP-0102,Perum Mulyani,Transportasi,2022,1334,97,Kalideres,TIDAK
+WP-0103,PT Sudiati Hasanah,Transportasi,2006,7928,144,Kemayoran,YA
+WP-0104,PT Latupono Usamah (Persero) Tbk,Manufaktur,2005,4750,198,Tebet,TIDAK
+WP-0105,PT Adriansyah Budiman Tbk,Jasa,2020,4322,191,Pulogadung,YA
+WP-0106,Perum Puspita Usada Tbk,Restoran,2016,3661,161,Kuningan,YA
+WP-0107,UD Puspasari Manullang Tbk,Manufaktur,2024,3309,82,Mampang,YA
+WP-0108,PD Mandala Sihombing Tbk,Teknologi,2016,10507,152,Pulogadung,YA
+WP-0109,PD Suryono Kurniawan (Persero) Tbk,Transportasi,2023,12550,164,Johar Baru,YA
+WP-0110,PT Sihombing,Restoran,2003,1377,25,Jatinegara,YA
+WP-0111,Perum Januar Nuraini (Persero) Tbk,Properti,2022,7801,7,Mampang,YA
+WP-0112,CV Nasyidah,Properti,2015,2703,33,Pulogadung,YA
+WP-0113,CV Adriansyah Saragih,Restoran,2008,976,8,Gambir,TIDAK
+WP-0114,PT Hidayanto Tbk,Kesehatan,2019,7428,156,Kemayoran,TIDAK
+WP-0115,Perum Jailani (Persero) Tbk,Jasa,2022,14698,141,Kuningan,TIDAK
+WP-0116,Perum Pudjiastuti Maheswara,Restoran,2010,7392,185,Tebet,TIDAK
+WP-0117,UD Rahimah Setiawan Tbk,Kesehatan,2016,12983,198,Setiabudi,YA
+WP-0118,CV Padmasari Marbun,Teknologi,2015,8074,103,Menteng,YA
+WP-0119,PD Saputra,Properti,2017,8841,109,Mampang,TIDAK
+WP-0120,Perum Maheswara Saptono Tbk,Jasa,2000,13114,142,Cikini,TIDAK
+WP-0121,PT Dabukke Mahendra,Pendidikan,2002,397,125,Setiabudi,YA
+WP-0122,PT Jailani Tbk,Pendidikan,2001,13977,149,Matraman,YA
+WP-0123,PD Simanjuntak Damanik,Kesehatan,2008,4546,101,Setiabudi,TIDAK
+WP-0124,UD Narpati Wahyudin (Persero) Tbk,Manufaktur,2012,1418,85,Senayan,YA
+WP-0125,PT Waskita (Persero) Tbk,Manufaktur,2011,14475,47,Gambir,TIDAK
+WP-0126,UD Rahayu,Manufaktur,2007,2689,178,Setiabudi,YA
+WP-0127,CV Saragih (Persero) Tbk,Perdagangan,2009,1892,53,Tambora,YA
+WP-0128,UD Suwarno Mahendra,Perdagangan,2015,4885,189,Kuningan,TIDAK
+WP-0129,PD Pudjiastuti,Perdagangan,2013,6848,117,Jatinegara,YA
+WP-0130,PD Mandasari Nugroho,Kesehatan,2023,12471,30,Kuningan,TIDAK
+WP-0131,CV Manullang Tbk,Kesehatan,2014,7452,172,Kemayoran,TIDAK
+WP-0132,PT Megantara,Properti,2021,10813,42,Kuningan,TIDAK
+WP-0133,CV Zulaika Wijayanti,Manufaktur,2002,13597,16,Setiabudi,YA
+WP-0134,UD Haryanto Oktaviani (Persero) Tbk,Kesehatan,2019,4435,102,Mampang,YA
+WP-0135,PD Tampubolon,Keuangan,2000,13904,19,Tebet,TIDAK
+WP-0136,Perum Budiman Tbk,Jasa,2012,6893,6,Tambora,TIDAK
+WP-0137,UD Budiyanto Purwanti,Properti,2003,12118,132,Rawamangun,YA
+WP-0138,CV Prakasa Anggraini,Properti,2011,11814,41,Senayan,TIDAK
+WP-0139,PD Salahudin Budiyanto,Kesehatan,2011,1797,111,Kemayoran,YA
+WP-0140,Perum Wulandari Tbk,Jasa,2004,10356,80,Kuningan,YA
+WP-0141,PT Rahmawati Yulianti (Persero) Tbk,Perdagangan,2006,11644,45,Menteng,TIDAK
+WP-0142,UD Puspita Pertiwi Tbk,Teknologi,2023,4929,32,Jatinegara,YA
+WP-0143,CV Handayani,Pendidikan,2011,10049,51,Pulogadung,TIDAK
+WP-0144,PD Wijaya,Pendidikan,2020,6339,94,Rawamangun,YA
+WP-0145,UD Susanti Waskita,Manufaktur,2003,13590,86,Kalideres,TIDAK
+WP-0146,UD Mansur Tbk,Manufaktur,2007,6462,8,Gambir,YA
+WP-0147,PD Prasasta Yuniar,Restoran,2008,9442,196,Senayan,TIDAK
+WP-0148,PT Pranowo,Properti,2023,1917,155,Mampang,TIDAK
+WP-0149,PD Wijaya (Persero) Tbk,Properti,2023,5715,61,Mampang,TIDAK
+WP-0150,PT Novitasari,Kesehatan,2023,10522,146,Jatinegara,TIDAK
+WP-0151,UD Sihotang Kusumo,Perdagangan,2002,8882,77,Pulogadung,TIDAK
+WP-0152,PT Maheswara (Persero) Tbk,Jasa,2022,9784,84,Johar Baru,TIDAK
+WP-0153,Perum Safitri Ardianto Tbk,Pendidikan,2001,2247,21,Johar Baru,TIDAK
+WP-0154,UD Agustina Hutasoit Tbk,Jasa,2004,6436,169,Matraman,TIDAK
+WP-0155,PD Pratama Thamrin (Persero) Tbk,Teknologi,2004,6036,147,Tambora,TIDAK
+WP-0156,Perum Namaga Tbk,Manufaktur,2013,9434,193,Senayan,TIDAK
+WP-0157,PD Purnawati Puspasari (Persero) Tbk,Pendidikan,2013,3616,122,Tambora,YA
+WP-0158,PD Prasetya Pudjiastuti Tbk,Jasa,2000,12541,144,Cilandak,YA
+WP-0159,PT Uyainah (Persero) Tbk,Transportasi,2015,13881,39,Kalideres,TIDAK
+WP-0160,UD Maheswara Tbk,Restoran,2021,11006,112,Setiabudi,TIDAK
+WP-0161,PD Purwanti Sudiati Tbk,Transportasi,2017,664,177,Kalideres,YA
+WP-0162,CV Sitorus Tbk,Properti,2022,5202,32,Tebet,TIDAK
+WP-0163,PD Pertiwi,Transportasi,2016,8528,137,Rawamangun,YA
+WP-0164,PD Namaga,Teknologi,2021,11033,82,Mampang,TIDAK
+WP-0165,PD Lailasari Suryono,Transportasi,2005,10405,131,Mampang,TIDAK
+WP-0166,UD Farida Tbk,Transportasi,2010,808,112,Kalideres,YA
+WP-0167,Perum Saptono,Keuangan,2001,3883,123,Menteng,TIDAK
+WP-0168,Perum Simanjuntak (Persero) Tbk,Keuangan,2014,10519,123,Tebet,TIDAK
+WP-0169,PD Wasita Firgantoro (Persero) Tbk,Pendidikan,2009,6741,123,Menteng,YA
+WP-0170,PD Suryono Yuniar,Jasa,2006,8070,58,Menteng,YA
+WP-0171,CV Maulana (Persero) Tbk,Keuangan,2006,6606,184,Pulogadung,TIDAK
+WP-0172,PT Maryati Sitompul Tbk,Teknologi,2006,10552,30,Matraman,YA
+WP-0173,Perum Mayasari Wijaya,Transportasi,2007,11394,55,Tambora,YA
+WP-0174,UD Habibi Pangestu,Keuangan,2002,11684,71,Kalideres,TIDAK
+WP-0175,PD Dongoran Tbk,Keuangan,2020,14145,174,Cempaka Putih,YA
+WP-0176,CV Iswahyudi,Restoran,2021,5526,136,Rawamangun,YA
+WP-0177,UD Zulkarnain,Kesehatan,2006,4687,48,Setiabudi,TIDAK
+WP-0178,UD Suryono Fujiati (Persero) Tbk,Pendidikan,2022,11234,109,Tambora,YA
+WP-0179,CV Wijayanti Kusmawati,Transportasi,2024,4964,89,Cempaka Putih,TIDAK
+WP-0180,PT Maulana,Manufaktur,2019,8478,50,Kuningan,TIDAK
+WP-0181,PD Usamah Mandala (Persero) Tbk,Pendidikan,2001,11382,108,Gambir,YA
+WP-0182,UD Maryadi Sudiati (Persero) Tbk,Properti,2003,9768,54,Senayan,TIDAK
+WP-0183,PT Najmudin Laksmiwati Tbk,Transportasi,2004,2339,137,Kemayoran,TIDAK
+WP-0184,PT Mulyani Kuswoyo Tbk,Manufaktur,2007,2683,125,Gambir,YA
+WP-0185,PD Prasasta Tbk,Transportasi,2017,601,131,Senayan,TIDAK
+WP-0186,PT Zulaika Halim,Perdagangan,2016,4807,60,Gambir,YA
+WP-0187,CV Pertiwi (Persero) Tbk,Manufaktur,2001,6496,130,Senayan,YA
+WP-0188,PT Waluyo Sihombing,Pendidikan,2014,406,133,Johar Baru,YA
+WP-0189,PT Tarihoran Suryatmi Tbk,Manufaktur,2005,11510,62,Matraman,TIDAK
+WP-0190,CV Yulianti Tbk,Transportasi,2019,356,142,Gambir,TIDAK
+WP-0191,Perum Sitompul Ardianto Tbk,Jasa,2005,1350,67,Jatinegara,YA
+WP-0192,PD Rahayu Nashiruddin,Teknologi,2010,7108,11,Gambir,YA
+WP-0193,PT Rahayu (Persero) Tbk,Teknologi,2005,8338,184,Tambora,YA
+WP-0194,Perum Mandasari Tbk,Keuangan,2023,4724,168,Kemayoran,YA
+WP-0195,CV Rahmawati Nuraini (Persero) Tbk,Jasa,2002,1279,147,Pulogadung,TIDAK
+WP-0196,PD Pranowo Tbk,Properti,2002,3854,137,Cikini,YA
+WP-0197,PD Rahimah,Jasa,2000,14325,147,Gambir,YA
+WP-0198,PD Hakim Tbk,Perdagangan,2019,13125,54,Menteng,YA
+WP-0199,UD Firmansyah Hakim,Keuangan,2004,13962,10,Setiabudi,YA
+WP-0200,PT Yuniar Andriani (Persero) Tbk,Manufaktur,2009,7111,8,Jatinegara,YA
+WP-0201,PD Uyainah (Persero) Tbk,Kesehatan,2005,7501,103,Kuningan,YA
+WP-0202,UD Usamah Zulaika (Persero) Tbk,Keuangan,2010,4603,39,Jatinegara,YA
+WP-0203,PT Andriani,Transportasi,2001,9290,176,Tebet,TIDAK
+WP-0204,PD Haryanto,Perdagangan,2016,9276,159,Cakung,TIDAK
+WP-0205,PT Halim,Teknologi,2015,8355,137,Tambora,TIDAK
+WP-0206,CV Prabowo Prabowo,Perdagangan,2002,1839,141,Kalideres,YA
+WP-0207,PT Saragih Sitompul,Transportasi,2019,4301,30,Jatinegara,YA
+WP-0208,PD Saputra,Perdagangan,2008,5378,26,Cilandak,YA
+WP-0209,UD Siregar Tbk,Keuangan,2022,272,72,Kemayoran,YA
+WP-0210,PD Halimah Tbk,Restoran,2023,3300,117,Cikini,TIDAK
+WP-0211,PD Prasetyo Yulianti,Perdagangan,2002,1445,57,Tebet,YA
+WP-0212,PD Wulandari Zulkarnain (Persero) Tbk,Jasa,2007,6381,69,Cempaka Putih,YA
+WP-0213,PT Marbun,Keuangan,2022,1995,63,Kuningan,TIDAK
+WP-0214,PD Yuniar Zulaika Tbk,Jasa,2016,3634,13,Cikini,TIDAK
+WP-0215,PD Zulkarnain Laksmiwati (Persero) Tbk,Teknologi,2020,13793,189,Cempaka Putih,TIDAK
+WP-0216,CV Simanjuntak,Pendidikan,2008,6033,159,Cikini,TIDAK
+WP-0217,Perum Suryono,Restoran,2001,13412,82,Senayan,YA
+WP-0218,PD Puspita Widodo,Manufaktur,2017,14516,47,Kuningan,TIDAK
+WP-0219,PT Prastuti Setiawan (Persero) Tbk,Perdagangan,2020,3970,167,Matraman,TIDAK
+WP-0220,UD Wijayanti,Kesehatan,2011,2364,109,Rawamangun,TIDAK
+WP-0221,PT Prakasa Sihombing,Jasa,2011,1682,198,Menteng,YA
+WP-0222,UD Hasanah Wijaya (Persero) Tbk,Pendidikan,2014,9310,194,Kuningan,TIDAK
+WP-0223,UD Sitompul Tbk,Kesehatan,2012,9006,53,Kuningan,TIDAK
+WP-0224,UD Kuswandari Mangunsong Tbk,Properti,2022,4047,41,Senayan,TIDAK
+WP-0225,Perum Winarsih Pratiwi,Kesehatan,2018,1819,50,Menteng,YA
+WP-0226,CV Hutasoit Sihombing Tbk,Keuangan,2001,14576,56,Mampang,YA
+WP-0227,CV Prastuti Tbk,Properti,2020,11422,151,Kemayoran,YA
+WP-0228,Perum Napitupulu Sihotang (Persero) Tbk,Teknologi,2004,11674,147,Setiabudi,YA
+WP-0229,PT Sihotang Riyanti (Persero) Tbk,Pendidikan,2014,8823,45,Rawamangun,TIDAK
+WP-0230,PT Palastri,Kesehatan,2023,5701,104,Senayan,YA
+WP-0231,PD Firmansyah Padmasari,Teknologi,2013,7693,192,Kemayoran,TIDAK
+WP-0232,UD Laksita,Restoran,2005,959,160,Senayan,TIDAK
+WP-0233,PT Purnawati Tbk,Pendidikan,2000,6785,78,Setiabudi,YA
+WP-0234,PD Sitompul Habibi,Transportasi,2010,10680,94,Cengkareng,YA
+WP-0235,UD Riyanti,Pendidikan,2003,14206,155,Cengkareng,TIDAK
+WP-0236,PD Prastuti,Restoran,2017,6400,107,Pulogadung,YA
+WP-0237,PD Latupono,Pendidikan,2014,1942,18,Rawamangun,TIDAK
+WP-0238,PT Nurdiyanti Lailasari,Teknologi,2011,14041,148,Johar Baru,YA
+WP-0239,UD Sinaga Marpaung,Transportasi,2023,3777,26,Kalideres,YA
+WP-0240,UD Simbolon Mahendra (Persero) Tbk,Keuangan,2023,9339,46,Matraman,TIDAK
+WP-0241,Perum Maulana Aryani Tbk,Transportasi,2023,6031,176,Mampang,YA
+WP-0242,PT Hutasoit,Perdagangan,2000,716,95,Menteng,YA
+WP-0243,PT Pertiwi Mansur,Properti,2000,1658,18,Jatinegara,YA
+WP-0244,PT Wacana Utami Tbk,Perdagangan,2013,9868,60,Jatinegara,YA
+WP-0245,UD Firmansyah Hakim,Properti,2003,2160,159,Rawamangun,TIDAK
+WP-0246,PT Hartati Wijaya (Persero) Tbk,Restoran,2023,8872,37,Johar Baru,YA
+WP-0247,PD Prasasta Sitompul Tbk,Pendidikan,2003,637,120,Rawamangun,YA
+WP-0248,PD Puspita,Manufaktur,2020,8262,136,Cakung,YA
+WP-0249,CV Saefullah Permata,Teknologi,2007,12380,120,Kuningan,TIDAK
+WP-0250,CV Wibisono,Perdagangan,2005,10596,63,Kemayoran,TIDAK
+WP-0251,UD Napitupulu Tbk,Kesehatan,2007,3283,21,Cilandak,YA
+WP-0252,PD Situmorang Najmudin,Pendidikan,2006,728,91,Tebet,YA
+WP-0253,UD Setiawan Situmorang (Persero) Tbk,Manufaktur,2018,6849,44,Rawamangun,TIDAK
+WP-0254,CV Prayoga,Transportasi,2006,14221,52,Johar Baru,TIDAK
+WP-0255,CV Riyanti,Keuangan,2014,4523,154,Cengkareng,TIDAK
+WP-0256,Perum Rajasa,Jasa,2000,13140,89,Kalideres,YA
+WP-0257,Perum Sihotang,Manufaktur,2006,10248,176,Mampang,YA
+WP-0258,Perum Waskita Nugroho,Kesehatan,2021,2364,183,Pulogadung,TIDAK
+WP-0259,UD Kurniawan Puspasari,Transportasi,2016,692,89,Kemayoran,YA
+WP-0260,Perum Andriani Manullang,Perdagangan,2012,10815,54,Cilandak,TIDAK
+WP-0261,PT Wijaya Nuraini Tbk,Keuangan,2010,1365,75,Mampang,YA
+WP-0262,UD Fujiati (Persero) Tbk,Properti,2022,2500,176,Menteng,TIDAK
+WP-0263,CV Uwais Suwarno (Persero) Tbk,Pendidikan,2013,12614,183,Cikini,YA
+WP-0264,PT Sitorus Halim (Persero) Tbk,Transportasi,2016,6670,132,Senayan,TIDAK
+WP-0265,PD Putra,Restoran,2008,8243,193,Cengkareng,TIDAK
+WP-0266,UD Putra Situmorang Tbk,Manufaktur,2006,12542,137,Jatinegara,YA
+WP-0267,CV Hasanah (Persero) Tbk,Kesehatan,2000,7486,152,Cempaka Putih,TIDAK
+WP-0268,UD Saptono Rahimah,Teknologi,2012,3390,170,Tambora,YA
+WP-0269,PT Manullang (Persero) Tbk,Keuangan,2011,7376,189,Gambir,YA
+WP-0270,PT Kuswandari,Properti,2008,5792,109,Cakung,YA
+WP-0271,PT Mayasari Kusmawati (Persero) Tbk,Perdagangan,2002,5921,66,Kuningan,TIDAK
+WP-0272,UD Lazuardi (Persero) Tbk,Pendidikan,2021,7142,98,Tebet,TIDAK
+WP-0273,CV Maryati Prayoga Tbk,Properti,2013,7673,25,Menteng,TIDAK
+WP-0274,PD Pertiwi Marpaung,Teknologi,2017,1669,19,Kuningan,TIDAK
+WP-0275,UD Suryono Yuniar (Persero) Tbk,Restoran,2017,5495,192,Matraman,YA
+WP-0276,CV Wasita Tbk,Pendidikan,2007,11829,90,Cengkareng,YA
+WP-0277,UD Napitupulu,Pendidikan,2014,8243,21,Senayan,YA
+WP-0278,PD Handayani Tbk,Kesehatan,2000,5944,189,Cakung,YA
+WP-0279,CV Sitompul Namaga,Teknologi,2018,9004,58,Senayan,TIDAK
+WP-0280,Perum Mangunsong,Keuangan,2024,12356,128,Cempaka Putih,YA
+WP-0281,Perum Jailani Latupono,Transportasi,2006,12434,84,Tebet,TIDAK
+WP-0282,PT Permadi Tbk,Transportasi,2005,11573,191,Senayan,TIDAK
+WP-0283,PT Budiyanto,Jasa,2012,10630,113,Matraman,YA
+WP-0284,Perum Haryanti,Pendidikan,2021,7599,126,Cakung,TIDAK
+WP-0285,CV Prabowo Lailasari,Teknologi,2002,13087,76,Menteng,TIDAK
+WP-0286,PD Mardhiyah Padmasari,Kesehatan,2010,2065,53,Kemayoran,TIDAK
+WP-0287,PD Anggraini (Persero) Tbk,Jasa,2023,4926,78,Rawamangun,YA
+WP-0288,Perum Wibisono Tbk,Teknologi,2023,9501,16,Tebet,YA
+WP-0289,PD Haryanto,Restoran,2012,363,185,Setiabudi,YA
+WP-0290,CV Winarno,Teknologi,2018,9366,108,Gambir,TIDAK
+WP-0291,Perum Sudiati,Jasa,2014,14977,170,Johar Baru,TIDAK
+WP-0292,CV Zulkarnain (Persero) Tbk,Keuangan,2009,7890,114,Kemayoran,TIDAK
+WP-0293,CV Nurdiyanti,Transportasi,2014,11645,180,Johar Baru,TIDAK
+WP-0294,PT Usamah Tamba,Keuangan,2015,4433,73,Tebet,TIDAK
+WP-0295,UD Laksmiwati Tbk,Transportasi,2010,5146,119,Pulogadung,TIDAK
+WP-0296,UD Kusumo Pradipta Tbk,Teknologi,2005,10609,6,Kuningan,YA
+WP-0297,CV Maulana,Transportasi,2005,3620,120,Cengkareng,TIDAK
+WP-0298,PT Sitorus Rahmawati (Persero) Tbk,Restoran,2006,9032,121,Cikini,TIDAK
+WP-0299,CV Nasyiah Tbk,Properti,2017,2025,91,Cempaka Putih,YA
+WP-0300,Perum Pudjiastuti Tbk,Restoran,2013,6353,57,Rawamangun,TIDAK
+WP-0301,CV Wacana Mayasari Tbk,Teknologi,2008,9329,187,Cilandak,TIDAK
+WP-0302,UD Hidayat,Kesehatan,2023,13527,113,Tebet,YA
+WP-0303,PT Anggriawan Suryono,Keuangan,2013,14817,105,Cilandak,TIDAK
+WP-0304,UD Maulana,Perdagangan,2010,11288,152,Cempaka Putih,YA
+WP-0305,PT Firmansyah Lazuardi Tbk,Perdagangan,2002,4684,152,Gambir,TIDAK
+WP-0306,CV Prasetya Tbk,Transportasi,2006,9277,17,Cempaka Putih,YA
+WP-0307,PD Budiman Maryati (Persero) Tbk,Manufaktur,2012,11644,199,Cikini,YA
+WP-0308,UD Sihotang,Perdagangan,2008,13523,6,Johar Baru,YA
+WP-0309,Perum Nababan Tbk,Restoran,2012,13397,101,Cengkareng,YA
+WP-0310,Perum Mahendra Tbk,Perdagangan,2010,6304,65,Cengkareng,YA
+WP-0311,CV Salahudin Tamba (Persero) Tbk,Keuangan,2016,7014,83,Kalideres,YA
+WP-0312,PT Mardhiyah (Persero) Tbk,Pendidikan,2011,1777,110,Mampang,TIDAK
+WP-0313,UD Prasetyo Tbk,Perdagangan,2008,2314,146,Tambora,TIDAK
+WP-0314,PT Latupono Wulandari (Persero) Tbk,Perdagangan,2001,8509,139,Setiabudi,TIDAK
+WP-0315,PT Susanti Tampubolon,Keuangan,2018,13992,76,Kuningan,TIDAK
+WP-0316,Perum Napitupulu Wahyuni,Perdagangan,2022,766,64,Tambora,TIDAK
+WP-0317,PT Puspita Tbk,Pendidikan,2008,6621,15,Cilandak,YA
+WP-0318,UD Uyainah Tbk,Manufaktur,2017,8058,170,Cengkareng,YA
+WP-0319,PD Irawan Lazuardi,Keuangan,2001,5486,123,Cengkareng,TIDAK
+WP-0320,PD Tampubolon Firmansyah (Persero) Tbk,Pendidikan,2008,14465,150,Kemayoran,TIDAK
+WP-0321,PT Sihombing (Persero) Tbk,Teknologi,2015,3522,9,Senayan,TIDAK
+WP-0322,CV Kusumo Tbk,Perdagangan,2024,14229,168,Senayan,TIDAK
+WP-0323,UD Nababan Tbk,Pendidikan,2000,3116,75,Jatinegara,TIDAK
+WP-0324,UD Hakim (Persero) Tbk,Keuangan,2014,6386,79,Kuningan,TIDAK
+WP-0325,PT Mangunsong Purwanti (Persero) Tbk,Perdagangan,2006,10809,52,Gambir,TIDAK
+WP-0326,CV Dongoran Wulandari (Persero) Tbk,Restoran,2017,12389,155,Tebet,YA
+WP-0327,CV Rahayu (Persero) Tbk,Keuangan,2020,12263,93,Cempaka Putih,TIDAK
+WP-0328,Perum Hidayanto Tbk,Manufaktur,2012,414,130,Kemayoran,TIDAK
+WP-0329,CV Usamah (Persero) Tbk,Pendidikan,2002,2600,23,Cikini,YA
+WP-0330,Perum Kuswandari Widodo,Pendidikan,2002,13057,200,Tambora,TIDAK
+WP-0331,CV Halimah,Jasa,2018,14932,96,Tebet,TIDAK
+WP-0332,Perum Mahendra (Persero) Tbk,Keuangan,2017,8172,13,Matraman,YA
+WP-0333,PD Pradipta,Perdagangan,2001,14286,92,Pulogadung,TIDAK
+WP-0334,PT Namaga Puspasari,Kesehatan,2017,9642,196,Kuningan,YA
+WP-0335,CV Wijayanti Tbk,Keuangan,2000,8476,60,Senayan,TIDAK
+WP-0336,PD Nuraini Prasasta Tbk,Perdagangan,2004,6595,137,Kuningan,YA
+WP-0337,CV Natsir,Teknologi,2000,7151,130,Cilandak,TIDAK
+WP-0338,Perum Hakim (Persero) Tbk,Jasa,2018,11052,144,Menteng,TIDAK
+WP-0339,UD Hartati Handayani,Pendidikan,2016,6510,6,Rawamangun,TIDAK
+WP-0340,UD Haryanti (Persero) Tbk,Kesehatan,2015,7141,29,Matraman,TIDAK
+WP-0341,CV Suwarno Oktaviani,Kesehatan,2011,8786,187,Senayan,TIDAK
+WP-0342,Perum Widiastuti Tbk,Pendidikan,2001,10741,184,Mampang,TIDAK
+WP-0343,PD Prabowo Prasetyo,Manufaktur,2004,11592,88,Cempaka Putih,YA
+WP-0344,CV Kusumo,Teknologi,2013,7385,88,Cakung,TIDAK
+WP-0345,Perum Anggraini Hidayanto Tbk,Restoran,2024,11445,113,Rawamangun,YA
+WP-0346,UD Palastri Tbk,Manufaktur,2001,14418,36,Pulogadung,TIDAK
+WP-0347,PT Prabowo (Persero) Tbk,Jasa,2011,4929,54,Menteng,TIDAK
+WP-0348,UD Nasyiah Oktaviani Tbk,Manufaktur,2012,5168,83,Mampang,YA
+WP-0349,PT Januar Dabukke,Pendidikan,2006,5385,169,Setiabudi,TIDAK
+WP-0350,UD Sihotang,Manufaktur,2012,10198,175,Cakung,YA
+WP-0351,CV Wibowo Hastuti,Restoran,2019,14463,108,Cikini,YA
+WP-0352,CV Wibowo,Transportasi,2013,747,124,Mampang,TIDAK
+WP-0353,PT Kusmawati Tbk,Teknologi,2021,8250,36,Senayan,TIDAK
+WP-0354,UD Iswahyudi Firmansyah (Persero) Tbk,Perdagangan,2010,4928,19,Kalideres,TIDAK
+WP-0355,UD Pangestu Tbk,Properti,2009,1352,157,Jatinegara,YA
+WP-0356,UD Najmudin Mandala,Kesehatan,2005,14548,76,Tebet,TIDAK
+WP-0357,Perum Prakasa Tbk,Properti,2011,3263,130,Jatinegara,YA
+WP-0358,Perum Winarno,Kesehatan,2015,5456,58,Cikini,TIDAK
+WP-0359,UD Yuliarti Puspita Tbk,Restoran,2018,13836,142,Cengkareng,YA
+WP-0360,PD Irawan,Restoran,2000,4616,45,Cempaka Putih,YA
+WP-0361,CV Waluyo Oktaviani Tbk,Restoran,2011,1780,71,Cengkareng,YA
+WP-0362,PT Rahmawati Gunawan,Properti,2017,11566,22,Tambora,TIDAK
+WP-0363,UD Sitorus Natsir,Jasa,2011,12188,102,Cikini,TIDAK
+WP-0364,PT Kusumo (Persero) Tbk,Properti,2007,612,129,Johar Baru,TIDAK
+WP-0365,PD Damanik Rahayu,Jasa,2006,5553,106,Senayan,TIDAK
+WP-0366,CV Winarsih,Perdagangan,2000,14969,62,Senayan,TIDAK
+WP-0367,PD Safitri Rahimah Tbk,Teknologi,2015,2607,98,Cilandak,YA
+WP-0368,PD Salahudin,Properti,2020,1906,123,Pulogadung,TIDAK
+WP-0369,Perum Yulianti Sitompul,Restoran,2008,607,5,Gambir,TIDAK
+WP-0370,Perum Dongoran,Perdagangan,2010,13446,86,Kuningan,YA
+WP-0371,PT Suartini Rahmawati,Properti,2005,2796,176,Cengkareng,TIDAK
+WP-0372,PD Gunarto Uwais (Persero) Tbk,Jasa,2004,943,88,Matraman,YA
+WP-0373,CV Tampubolon Pratama Tbk,Pendidikan,2009,1329,87,Matraman,TIDAK
+WP-0374,CV Hartati Tbk,Keuangan,2019,8667,133,Cempaka Putih,TIDAK
+WP-0375,PT Mustofa Hutasoit (Persero) Tbk,Pendidikan,2018,7852,31,Cempaka Putih,TIDAK
+WP-0376,PD Nashiruddin,Manufaktur,2022,7388,120,Kuningan,YA
+WP-0377,UD Anggriawan Tbk,Keuangan,2016,2748,30,Gambir,YA
+WP-0378,Perum Nasyidah (Persero) Tbk,Pendidikan,2012,4370,127,Jatinegara,YA
+WP-0379,UD Samosir,Pendidikan,2006,3210,145,Cikini,TIDAK
+WP-0380,CV Zulaika (Persero) Tbk,Pendidikan,2014,12603,41,Cengkareng,YA
+WP-0381,CV Andriani,Pendidikan,2021,6120,173,Cengkareng,YA
+WP-0382,UD Prayoga Fujiati,Restoran,2016,11623,75,Pulogadung,TIDAK
+WP-0383,UD Lazuardi (Persero) Tbk,Properti,2019,12673,166,Kalideres,YA
+WP-0384,PD Widiastuti Dabukke,Restoran,2005,4838,99,Rawamangun,TIDAK
+WP-0385,PD Lazuardi,Properti,2016,13843,153,Mampang,TIDAK
+WP-0386,UD Maryadi Maryadi,Restoran,2006,3081,111,Kemayoran,YA
+WP-0387,UD Yuliarti Uyainah Tbk,Restoran,2009,4421,126,Cikini,TIDAK
+WP-0388,Perum Palastri Wastuti (Persero) Tbk,Restoran,2001,9302,113,Rawamangun,TIDAK
+WP-0389,CV Anggriawan,Transportasi,2015,5064,160,Kemayoran,TIDAK
+WP-0390,PD Nasyidah Iswahyudi,Properti,2023,6529,67,Kalideres,TIDAK
+WP-0391,PD Riyanti Tbk,Perdagangan,2007,4075,13,Jatinegara,TIDAK
+WP-0392,UD Mandasari (Persero) Tbk,Restoran,2007,14717,192,Setiabudi,TIDAK
+WP-0393,UD Hasanah Nasyidah,Teknologi,2007,8543,104,Matraman,TIDAK
+WP-0394,PT Dongoran,Jasa,2020,2246,154,Kemayoran,YA
+WP-0395,CV Rahmawati,Teknologi,2016,4215,53,Menteng,TIDAK
+WP-0396,PD Rajasa Nasyidah,Pendidikan,2019,10354,168,Kemayoran,YA
+WP-0397,PT Yolanda Winarsih,Kesehatan,2018,9772,131,Jatinegara,TIDAK
+WP-0398,CV Hariyah,Perdagangan,2006,7173,107,Menteng,TIDAK
+WP-0399,Perum Wulandari,Properti,2023,8038,145,Matraman,TIDAK
+WP-0400,CV Hidayat Hutagalung,Perdagangan,2014,14572,14,Jatinegara,YA
+WP-0401,Perum Nashiruddin Hutasoit,Transportasi,2000,5864,161,Senayan,YA
+WP-0402,Perum Mandala (Persero) Tbk,Properti,2019,7253,11,Tebet,TIDAK
+WP-0403,CV Wulandari,Keuangan,2007,4525,89,Johar Baru,YA
+WP-0404,UD Hastuti Tbk,Perdagangan,2011,10853,30,Senayan,YA
+WP-0405,PT Haryanti Rajasa (Persero) Tbk,Keuangan,2003,2194,53,Matraman,YA
+WP-0406,PT Rahimah Tarihoran Tbk,Jasa,2022,5349,15,Cengkareng,TIDAK
+WP-0407,PD Utama,Transportasi,2010,3899,72,Tambora,TIDAK
+WP-0408,PD Gunarto Mayasari Tbk,Perdagangan,2001,300,194,Cakung,YA
+WP-0409,CV Widodo Puspita,Restoran,2018,12715,105,Tebet,TIDAK
+WP-0410,PD Lazuardi Salahudin Tbk,Manufaktur,2016,9814,130,Setiabudi,TIDAK
+WP-0411,UD Nababan,Keuangan,2014,14837,200,Johar Baru,YA
+WP-0412,UD Lestari,Manufaktur,2009,11031,45,Cempaka Putih,TIDAK
+WP-0413,PT Hariyah Habibi,Transportasi,2003,1905,43,Johar Baru,TIDAK
+WP-0414,PT Firmansyah,Jasa,2000,13602,193,Kalideres,TIDAK
+WP-0415,Perum Saputra,Manufaktur,2000,14191,159,Gambir,TIDAK
+WP-0416,UD Suartini (Persero) Tbk,Jasa,2012,14248,151,Kemayoran,YA
+WP-0417,CV Wibisono Widiastuti (Persero) Tbk,Manufaktur,2011,1664,73,Gambir,TIDAK
+WP-0418,PT Sinaga Tbk,Transportasi,2001,10655,122,Rawamangun,YA
+WP-0419,PD Lestari Prayoga Tbk,Properti,2001,9913,64,Cengkareng,TIDAK
+WP-0420,CV Maryadi,Properti,2006,4763,28,Tebet,YA
+WP-0421,Perum Iswahyudi Rahimah,Manufaktur,2004,3775,176,Kalideres,YA
+WP-0422,UD Situmorang Tbk,Teknologi,2024,10803,172,Pulogadung,TIDAK
+WP-0423,UD Nasyiah Kuswoyo,Pendidikan,2021,519,82,Pulogadung,TIDAK
+WP-0424,CV Pratama Padmasari,Perdagangan,2016,2719,145,Pulogadung,TIDAK
+WP-0425,PD Maryadi Saragih Tbk,Keuangan,2013,7359,68,Menteng,TIDAK
+WP-0426,PD Marbun Tbk,Keuangan,2004,6731,107,Senayan,TIDAK
+WP-0427,Perum Permata,Kesehatan,2015,8299,56,Cikini,YA
+WP-0428,Perum Laksita,Keuangan,2007,11086,105,Cakung,YA
+WP-0429,UD Kusmawati Jailani,Perdagangan,2012,1578,14,Cikini,TIDAK
+WP-0430,CV Winarno Wacana Tbk,Properti,2010,6259,65,Pulogadung,TIDAK
+WP-0431,CV Zulkarnain Ardianto Tbk,Kesehatan,2014,794,155,Senayan,YA
+WP-0432,Perum Rahimah,Kesehatan,2003,2143,84,Cakung,TIDAK
+WP-0433,PD Marbun Mardhiyah,Pendidikan,2021,9996,20,Tambora,YA
+WP-0434,Perum Wulandari Rajata Tbk,Keuangan,2022,1371,182,Rawamangun,TIDAK
+WP-0435,PT Simanjuntak Mandasari Tbk,Perdagangan,2023,4859,7,Cempaka Putih,TIDAK
+WP-0436,CV Saragih Mustofa,Properti,2011,11406,6,Senayan,TIDAK
+WP-0437,Perum Adriansyah Pradipta (Persero) Tbk,Kesehatan,2006,2026,54,Cilandak,TIDAK
+WP-0438,CV Adriansyah,Pendidikan,2019,6996,17,Cilandak,TIDAK
+WP-0439,CV Putra,Perdagangan,2020,621,101,Johar Baru,TIDAK
+WP-0440,PT Wibisono,Transportasi,2007,8030,64,Tebet,YA
+WP-0441,Perum Rahimah,Manufaktur,2021,3996,97,Cilandak,TIDAK
+WP-0442,PD Pangestu Farida Tbk,Perdagangan,2000,4535,144,Rawamangun,YA
+WP-0443,CV Yulianti,Transportasi,2021,5138,157,Kuningan,TIDAK
+WP-0444,Perum Narpati (Persero) Tbk,Transportasi,2014,5773,196,Rawamangun,YA
+WP-0445,PT Megantara,Pendidikan,2014,8750,161,Senayan,TIDAK
+WP-0446,CV Jailani Tarihoran,Perdagangan,2003,801,190,Cikini,TIDAK
+WP-0447,PD Wahyuni Halim,Perdagangan,2012,3797,95,Cempaka Putih,YA
+WP-0448,CV Thamrin Pudjiastuti Tbk,Properti,2009,12726,149,Tebet,TIDAK
+WP-0449,UD Nasyiah Pradipta Tbk,Restoran,2001,12614,176,Kuningan,YA
+WP-0450,Perum Gunarto Habibi (Persero) Tbk,Pendidikan,2012,10988,194,Cikini,YA
+WP-0451,PT Laksita Prastuti,Teknologi,2007,14782,104,Pulogadung,TIDAK
+WP-0452,PT Lazuardi Nasyidah,Kesehatan,2010,13308,146,Cilandak,YA
+WP-0453,Perum Thamrin (Persero) Tbk,Teknologi,2020,5411,45,Rawamangun,YA
+WP-0454,Perum Suwarno,Jasa,2009,11603,145,Setiabudi,TIDAK
+WP-0455,Perum Haryanto Waskita,Properti,2008,6532,92,Johar Baru,TIDAK
+WP-0456,CV Wacana Hutagalung,Pendidikan,2022,2496,178,Cakung,YA
+WP-0457,CV Farida Purwanti Tbk,Manufaktur,2023,7723,13,Gambir,TIDAK
+WP-0458,UD Wulandari (Persero) Tbk,Transportasi,2018,5657,146,Johar Baru,YA
+WP-0459,PT Winarno Nainggolan Tbk,Kesehatan,2016,11542,121,Tambora,TIDAK
+WP-0460,CV Dongoran Rajata,Transportasi,2006,10638,193,Cengkareng,YA
+WP-0461,UD Rahayu,Manufaktur,2008,9444,138,Cengkareng,YA
+WP-0462,PT Najmudin Waskita (Persero) Tbk,Restoran,2011,5920,192,Menteng,YA
+WP-0463,Perum Laksmiwati (Persero) Tbk,Perdagangan,2021,6170,75,Cikini,TIDAK
+WP-0464,Perum Prasetya,Keuangan,2014,2325,14,Jatinegara,TIDAK
+WP-0465,PD Manullang,Perdagangan,2022,6579,163,Cempaka Putih,YA
+WP-0466,PT Lestari Anggriawan (Persero) Tbk,Jasa,2003,12461,37,Cempaka Putih,TIDAK
+WP-0467,UD Fujiati Lestari (Persero) Tbk,Perdagangan,2024,4518,66,Kalideres,YA
+WP-0468,Perum Nashiruddin,Transportasi,2015,9830,73,Cilandak,YA
+WP-0469,Perum Hassanah Sihombing,Kesehatan,2001,3412,34,Setiabudi,YA
+WP-0470,Perum Usada,Keuangan,2018,12707,157,Gambir,YA
+WP-0471,PD Sinaga Tbk,Transportasi,2006,7737,87,Rawamangun,YA
+WP-0472,CV Kusumo Sihombing (Persero) Tbk,Transportasi,2023,3097,44,Cengkareng,YA
+WP-0473,PT Novitasari Maryadi,Transportasi,2004,1954,77,Senayan,TIDAK
+WP-0474,PD Wahyuni (Persero) Tbk,Restoran,2000,1200,101,Menteng,YA
+WP-0475,CV Handayani Puspasari Tbk,Perdagangan,2001,7305,150,Mampang,YA
+WP-0476,CV Mandasari,Jasa,2005,11598,187,Kalideres,YA
+WP-0477,PD Manullang Melani Tbk,Jasa,2023,2176,69,Jatinegara,YA
+WP-0478,PT Rajasa (Persero) Tbk,Jasa,2018,10566,183,Senayan,TIDAK
+WP-0479,Perum Megantara Rajata (Persero) Tbk,Keuangan,2015,7883,191,Cikini,YA
+WP-0480,Perum Prayoga Waskita Tbk,Jasa,2020,12936,130,Menteng,YA
+WP-0481,Perum Wijayanti,Kesehatan,2010,10025,102,Mampang,TIDAK
+WP-0482,Perum Damanik Permata Tbk,Keuangan,2002,10145,47,Cakung,TIDAK
+WP-0483,Perum Sirait Hassanah,Perdagangan,2015,5363,148,Tebet,TIDAK
+WP-0484,CV Iswahyudi Tbk,Perdagangan,2001,7964,93,Setiabudi,TIDAK
+WP-0485,UD Permadi Mandasari,Properti,2000,1821,40,Tambora,YA
+WP-0486,CV Latupono Pertiwi (Persero) Tbk,Transportasi,2002,11285,138,Senayan,YA
+WP-0487,PD Prakasa Hariyah,Properti,2024,6580,21,Pulogadung,YA
+WP-0488,Perum Simanjuntak Tbk,Jasa,2010,4988,10,Kuningan,YA
+WP-0489,Perum Rajata,Manufaktur,2003,12224,88,Mampang,TIDAK
+WP-0490,UD Hariyah Irawan,Jasa,2004,3588,19,Cengkareng,YA
+WP-0491,PD Nurdiyanti Najmudin,Kesehatan,2018,5226,24,Cempaka Putih,YA
+WP-0492,Perum Budiyanto (Persero) Tbk,Jasa,2008,7998,36,Cengkareng,TIDAK
+WP-0493,PD Anggriawan,Teknologi,2015,9163,143,Tambora,TIDAK
+WP-0494,CV Marpaung,Properti,2008,11046,119,Cikini,YA
+WP-0495,UD Kuswandari,Pendidikan,2010,5351,196,Gambir,YA
+WP-0496,CV Prasetya Hardiansyah,Properti,2008,10442,86,Cempaka Putih,YA
+WP-0497,CV Hariyah Hakim,Keuangan,2024,2163,33,Kalideres,TIDAK
+WP-0498,UD Sirait (Persero) Tbk,Pendidikan,2004,12267,67,Menteng,YA
+WP-0499,PT Yolanda,Pendidikan,2018,7324,51,Kalideres,YA
+WP-0500,Perum Wijayanti,Pendidikan,2009,13500,134,Kalideres,YA
